@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+.title {
+
+    font-size: 50px;
+    background-color: olive;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+
+  }
